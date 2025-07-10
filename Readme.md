@@ -64,10 +64,3 @@ Our ensemble of models achieved impressive results:
 | CatBoost | 0.8729 | 5.56 | 4.29 |
 | XGBoost | 0.8687 | 5.65 | 4.33 |
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-Python 3.8+
-pip
