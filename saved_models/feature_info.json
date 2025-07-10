@@ -1,0 +1,52 @@
+{
+    "feature_names": [
+        "gender",
+        "race_ethnicity",
+        "parental_level_of_education",
+        "lunch",
+        "test_preparation_course",
+        "math_score",
+        "reading_score"
+    ],
+    "numerical_features": [
+        "math_score",
+        "reading_score"
+    ],
+    "categorical_features": [
+        "gender",
+        "race_ethnicity",
+        "parental_level_of_education",
+        "lunch",
+        "test_preparation_course"
+    ],
+    "categorical_values": {
+        "gender": [
+            "female",
+            "male"
+        ],
+        "race_ethnicity": [
+            "group A",
+            "group B",
+            "group C",
+            "group D",
+            "group E"
+        ],
+        "parental_level_of_education": [
+            "some high school",
+            "high school",
+            "some college",
+            "associate's degree",
+            "bachelor's degree",
+            "master's degree"
+        ],
+        "lunch": [
+            "standard",
+            "free/reduced"
+        ],
+        "test_preparation_course": [
+            "none",
+            "completed"
+        ]
+    },
+    "target_variable": "writing_score"
+}
