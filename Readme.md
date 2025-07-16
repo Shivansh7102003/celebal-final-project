@@ -10,7 +10,7 @@
 
 <h3>🎯 Predict Student Writing Scores with Machine Learning</h3>
 
-[**Live Demo**](https://celebal-final-project-pqbhxqiykmfm9bdxt5oiba.streamlit.app/) | [**Report Bug**](https://github.com/yourusername/student-performance-predictor/issues) | [**Request Feature**](https://github.com/yourusername/student-performance-predictor/issues)
+[**Live Demo**](https://celebal-final-project-mptwweya5rqhezqysg8olj.streamlit.app/) | [**Report Bug**](https://github.com/yourusername/student-performance-predictor/issues) | [**Request Feature**](https://github.com/yourusername/student-performance-predictor/issues)
 
 <img src="https://user-images.githubusercontent.com/yourusername/demo-screenshot.png" alt="Demo Screenshot" width="800"/>
 
